@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">鼠鼠博客</string>
+    <string name="welcome">欢迎来到鼠鼠的世界!</string>
+    <string name="tianChong">此面向敌</string>
+    <string name="OK">OK</string>
+    <string name="mouse_info">简介</string>
+    <string name="mouse_help">帮助</string>
+    <string name="menu_info">三人成鼠,必有本鼠鼠</string>
+    <string name="menu_help">鼠鼠帮不了你</string>
+    <string name="srn_drawer_open">Open</string>
+    <string name="srn_drawer_close">Close</string>
+    <string name="srn_ex_no_menu_view">No view for menu provided. You must either call .withMenuView(View) or pass a valid resource id to .withMenuLayout(int)</string>
+    <string name="srn_ex_bad_content_view">Your content view must contain exactly one child. Make sure you call inject() after setContentView().</string>
+</resources>

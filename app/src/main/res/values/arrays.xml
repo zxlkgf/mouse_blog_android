@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="ld_activityScreenTitles">
+        <item>鼠鼠主页</item>
+        <item>鼠鼠博客</item>
+        <item>鼠鼠搜索</item>
+        <item>浏览统计</item>
+        <item/>
+        <item>退出</item>
+    </string-array>
+
+    <array name="ld_activityScreenIcons">
+        <item>@drawable/mouse_home_32</item>
+        <item>@drawable/mouse_blog_32</item>
+        <item>@drawable/mouse_search_32</item>
+        <item>@drawable/mouse_count_32</item>
+        <item>0</item>
+        <item>@drawable/mouse_logout_32</item>
+    </array>
+
+</resources>
